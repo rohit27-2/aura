@@ -35,7 +35,7 @@ function Header() {
                                     <a href="#" className="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100">Tees</a>
                                     <a href="#" className="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100">Joggers</a>
                                     <a href="#" className="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100">Shoes</a>
-                                    <a href="#" className="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100">Accessories</a>
+                                    <a href="#" className="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100">Contact Us</a>
                                 </div>
                             )}
                         </div>
