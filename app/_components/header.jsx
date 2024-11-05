@@ -35,6 +35,7 @@ function Header() {
                                     <a href="#" className="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100">Tees</a>
                                     <a href="#" className="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100">Joggers</a>
                                     <a href="#" className="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100">Shoes</a>
+                                    <a href="#" className="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100">Accessories</a>
                                 </div>
                             )}
                         </div>
@@ -47,7 +48,7 @@ function Header() {
 
                         <div className="flex items-center gap-4">
                             <div className="relative">
-                                <button
+                                {/* <button
                                     type="button"
                                     onClick={toggleMenu}
                                     className="overflow-hidden rounded-full border border-gray-300 shadow-inner"
@@ -59,7 +60,7 @@ function Header() {
                                         alt=""
                                         className="h-10 w-10 object-cover"
                                     />
-                                </button>
+                                </button> */}
 
                                 {isMenuOpen && (
                                     <div
