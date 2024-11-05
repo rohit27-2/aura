@@ -18,7 +18,7 @@ function Products() {
 
                 <div class="relative bg-white pt-3">
                   <h3 class="text-xs text-gray-700 group-hover:underline group-hover:underline-offset-4">
-                    Basic Tee
+                    Wish T-shirt
                   </h3>
 
                   <p class="mt-2">
@@ -42,7 +42,7 @@ function Products() {
 
                 <div class="relative bg-white pt-3">
                   <h3 class="text-xs text-gray-700 group-hover:underline group-hover:underline-offset-4">
-                    Basic Tee
+                    SNOW GOLD T-SHIRT
                   </h3>
 
                   <p class="mt-2">
@@ -90,7 +90,7 @@ function Products() {
 
                 <div class="relative bg-white pt-3">
                   <h3 class="text-xs text-gray-700 group-hover:underline group-hover:underline-offset-4">
-                    Basic Tee
+                    FORMULA GARDEN POLO T-SHIRT
                   </h3>
 
                   <p class="mt-2">
@@ -114,7 +114,7 @@ function Products() {
 
                 <div class="relative bg-white pt-3">
                   <h3 class="text-xs text-gray-700 group-hover:underline group-hover:underline-offset-4">
-                    Basic Tee
+                    FIRE WHEEL POLO T-SHIRT
                   </h3>
 
                   <p class="mt-2">
